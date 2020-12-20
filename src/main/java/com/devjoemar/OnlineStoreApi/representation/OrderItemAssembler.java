@@ -25,6 +25,7 @@ public class OrderItemAssembler implements RepresentationModelAssembler<OrderIte
         products.forEach(product -> {
             ProductEntity productEntity = new ProductEntity();
             productEntity.setId(product.getId());
+            productEntity.setName(product.getName());
             productEntity.setDescription(product.getDescription());
             productEntity.setPrice(product.getPrice());
             productEntity.setTags(product.getTags());
