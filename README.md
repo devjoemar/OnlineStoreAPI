@@ -6,6 +6,9 @@ Getting Started
   1. Clone this project or download.
   2. Run the main method in OnlineStoreApiApplication.java
   
+  Cloning and importing github project using Intellij IDEA https://youtu.be/aBVOAnygcZw
+  
+  
 The following are the pre loaded data once you run the application
 ### User
   
