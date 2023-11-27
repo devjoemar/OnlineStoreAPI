@@ -1,6 +1,9 @@
 # OnlineStoreAPI
 Basic Online Store API
 
+This is a demo project on using Springboot HATEOAS. 
+
+
 Getting Started
 
   1. Clone this project or download.
